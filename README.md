@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Maurya
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React and ASP.NET also
+- 🌱 I’m currently learning React and ASP.NET 
 
 <!---
 adarshmaurya54/adarshmaurya54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

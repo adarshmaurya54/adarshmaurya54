@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adarshmaurya54.github.io/Portfolio)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adarshmauryaportfolio.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshmaurya54/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshmaurya54&show_icons=true&locale=en&layout=compact" alt="adarshmaurya54" /></p>

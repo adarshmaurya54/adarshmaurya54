@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning React.js and ASP.NET 
 - 👯 I’m looking to collaborate on all interesting project
 - 👨‍💻 All of my projects are available at github.
-- 📫 How to reach me via Instagram or Email
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshmaurya54&label=Profile%20views&color=0e75b6&style=flat" alt="adarshmaurya54" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshmaurya54" alt="adarshmaurya54" /></a> </p>

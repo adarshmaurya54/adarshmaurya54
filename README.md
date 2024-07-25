@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React.js and ASP.NET 
+- 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on all interesting project
 - 👨‍💻 All of my projects are available at github.
 
